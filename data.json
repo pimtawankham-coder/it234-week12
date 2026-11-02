@@ -1,6 +1,6 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
+  "shopName": "ร้านกาแฟ y2k",
+  "owner": "พิมตะวัน",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
   "products": [
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🧉",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "เอสเพรสโซ่",
+      "price": 50,
+      "emoji": "☕",
+      "available": true,
+      "tags": ["กาแฟ", "เย็น"]
     }
   ]
 }
